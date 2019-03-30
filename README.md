@@ -1,5 +1,8 @@
 # Hottest Forecast Next Day API
 
+This project tells maximum temperature for next day for particular time of whole day.
+This project can also be used to verify if a city exist, get details of a city, get weather forecast of any city
+
 ## Open Source API used and feature:-
 
 OpenWeather.co.uk
