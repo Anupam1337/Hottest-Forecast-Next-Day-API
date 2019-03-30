@@ -17,7 +17,7 @@ getNextDayDate()- returns next day date.
 getMaxTemp(String city_id or city_name):- returns max temperature in given city for whole day.
 getMaxTemp(String city_id or city_name, int from_time, to_time):- returns max temperature in given city and time.
 
-### Note:- from_time and to_time are only hours from 0-23.
+**Note:- from_time and to_time are only hours from 0-23.**
 
 ## Jar File used
 
